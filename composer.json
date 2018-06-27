@@ -8,7 +8,7 @@
             "email": "iamlaketc@gmail.com"
         }
     ],
-    "minimum-stability": "v1.0",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
