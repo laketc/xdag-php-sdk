@@ -39,7 +39,7 @@ class Rpc {
 		}
 		$output = curl_exec($ch);
 		if ($output == FALSE) {
-			//todo: when ipfs doesn't answer
+			//todo: when xdag doesn't answer
 		}		 
 		curl_close($ch);
  
